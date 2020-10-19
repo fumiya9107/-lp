@@ -376,12 +376,11 @@ input, select {
 }
 
 .icon3{
-  display: flex;
+display: flex;
 
 }
 
 .icon3 p{
-  padding-top: 70px;
 }
 
 .icon3 img{
@@ -541,7 +540,7 @@ input, select {
   }
 
   .icon3{
-    margin-bottom: 20px;
+    
   }
   .icon3 p{
     font-size: 1.5rem;
